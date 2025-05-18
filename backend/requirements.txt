@@ -1,0 +1,13 @@
+# Core Django and REST
+Django>=4.2
+djangorestframework
+djangorestframework-simplejwt
+django-cors-headers
+
+# Face recognition & AI
+face_recognition
+dlib
+opencv-python
+numpy
+scikit-learn
+Pillow
